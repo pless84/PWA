@@ -16,7 +16,7 @@
   ],
   "author": "Jakob Pless",
   "license": "ISC",
-  "devdependencies": {
+  "dependencies": {
     "http-server": "^14.1.1"
   }
 }
